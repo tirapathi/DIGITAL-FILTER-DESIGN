@@ -28,4 +28,6 @@ In Vivado, synthesis and implementation confirm that the design maps efficiently
 Performance analysis of the FIR filter focuses on parameters such as latency, throughput, filter order, coefficient precision, and resource utilization. Higher-order filters provide better attenuation but require more hardware. Using fixed-point coefficients optimizes FPGA resource usage while maintaining acceptable accuracy. FIR filters offer excellent stability and linear-phase performance but may require more computation than IIR filters.
 
 
+*OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/d5b6295b-0d7a-4d0d-ba58-8dbc2717c985)
