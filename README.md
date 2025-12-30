@@ -30,4 +30,4 @@ Performance analysis of the FIR filter focuses on parameters such as latency, th
 
 *OUTPUT*:
 
-![Image](https://github.com/user-attachments/assets/d5b6295b-0d7a-4d0d-ba58-8dbc2717c985)
+
